@@ -1,0 +1,20 @@
+SOAL :
+1. Apa tujuan kalian mengikuti bootcamp?
+
+2. Apa rencana ke depan kalian setelah mengikuti bootcamp?
+
+3. Sebutkan jenis tipe data primitif?
+
+JAWABAN :
+1. Mengasah skill yang didapat selama kuliah dan menambah pengetahuan tentang web
+development lebih banyak melalui bootcamp ini
+
+2. Mencari pekerjaan sesuai skill yang didapat dari bootcamp ini, mencoba membuat portofolio pribadi
+sebagai nilai tambah untuk profil karir saya
+
+3. - Number
+- Objek
+- String
+- Boolean
+- Undefined
+- null
